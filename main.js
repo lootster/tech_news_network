@@ -1,3 +1,5 @@
+require('dotenv').config()
+
 const News = require('./news')
 
 const express = require('express')
